@@ -1,0 +1,14 @@
+
+.slider-img {
+    height: 500px !important;
+    width: 100% !important;   
+
+}   
+.card-lineup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    margin: 10px;
+}
